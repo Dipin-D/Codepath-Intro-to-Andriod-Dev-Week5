@@ -28,7 +28,7 @@ My chosen API for this project is **NASA**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' alt='Video Demo' />
 
 ## Notes
 
